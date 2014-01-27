@@ -1,0 +1,27 @@
+{
+  "name": "Mobile2",
+  "version": "1.0.0",
+  "homepage": "https://github.com/lovatine/mobile2",
+  "authors": [
+    "Thiago Lovatine <thiagolovatine@mail.com>"
+  ],
+  "description": "This is a mobile app",
+  "main": "main.js",
+  "keywords": [
+    "app",
+    "mobile"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+                "jquery": "~2.0.3",
+                "bootstrap": ""
+        }
+}
